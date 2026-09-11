@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/config.ts","./src/examples.ts","./src/main.tsx","./src/reviewApi.ts","./src/types.ts","./src/vite-env.d.ts","./src/components/Header.tsx","./src/components/ResultPanel.tsx","./src/components/ReviewForm.tsx","./src/components/ReviewResultView.tsx","./src/components/ScoreBar.tsx","./src/components/VerdictBadge.tsx"],"version":"5.9.3"}
